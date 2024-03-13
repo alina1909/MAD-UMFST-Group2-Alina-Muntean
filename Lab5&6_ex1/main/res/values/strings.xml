@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab5_ex1</string>
+    <string name="call_mom">Call mom</string>
+    <string name="google">Google</string>
+    <string name="puppy">Puppy</string>
+    <string name="mini_phone_app">Mini phone app</string>
+</resources>
